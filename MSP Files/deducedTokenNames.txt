@@ -1,0 +1,10 @@
+NUMBER 128
+QUOTE 4
+?STRINGLITERAL 131
+CARRET 41
+SLASH 50
+COMMA 51
+QUESTIONMARK 15
+
+
+Test Rig token generation is +4 from Lexer.tokens file
