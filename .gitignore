@@ -17,6 +17,7 @@ local.properties
 .loadpath
 *.csv
 *.msp
+*.RData
 
 # External tool builders
 .externalToolBuilders/
